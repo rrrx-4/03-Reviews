@@ -1,0 +1,45 @@
+
+
+
+
+
+
+
+/* *{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    height: 100vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec{
+    text-align: center;
+   width: 30vw;
+   /* height: 60vh; */
+   /* border: 1px solid black; */
+}
+.info{
+    text-align: center;
+}
+.user-pic{
+width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto;
+    border: 1px solid red;
+    
+}
+img{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+
+} */
